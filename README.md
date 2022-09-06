@@ -1,5 +1,5 @@
 ## Info
-This is a mini Pacman game made for TASM.
+This is a mini version of Pacman made for TASM.
 
 
 ## Build & run
