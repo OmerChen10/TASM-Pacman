@@ -11,4 +11,5 @@ Then, run these three commands:
 `cycles=max`
 `tasm /zi pacman`
 `tlink /v pacman`
+`pacman`
 
